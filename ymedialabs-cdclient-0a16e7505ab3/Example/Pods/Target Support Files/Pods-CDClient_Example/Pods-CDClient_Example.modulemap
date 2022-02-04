@@ -1,0 +1,6 @@
+framework module Pods_CDClient_Example {
+  umbrella header "Pods-CDClient_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

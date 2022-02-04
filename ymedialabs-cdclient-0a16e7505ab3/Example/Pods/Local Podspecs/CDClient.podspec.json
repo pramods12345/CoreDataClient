@@ -1,0 +1,23 @@
+{
+  "name": "CDClient",
+  "version": "0.1.0",
+  "summary": "CDClient is manager to handle Coredata support",
+  "description": "CDClient is shortform for Coredata Manager. Projects which require Coredata as a local storage can use this manager.",
+  "homepage": "https://bitbucket.org/ymedialabs/cdclient",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pavan": "pavan.itagi@ymedialabs.com"
+  },
+  "source": {
+    "git": "https://bitbucket.org/ymedialabs/cdclient.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CDClient/Classes/**/*",
+  "frameworks": "Coredata"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - CDClient (0.1.0)
+
+DEPENDENCIES:
+  - CDClient (from `../`)
+
+EXTERNAL SOURCES:
+  CDClient:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CDClient: 6bc09935627a144a08111b71e4927bf9ec6a47f0
+
+PODFILE CHECKSUM: dfb0c4b03641c6a2f65a009313bdb4f658d16332
+
+COCOAPODS: 1.2.1

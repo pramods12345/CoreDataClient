@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CDClient_Example' do
+  pod 'CDClient', :path => '../'
+
+  target 'CDClient_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
